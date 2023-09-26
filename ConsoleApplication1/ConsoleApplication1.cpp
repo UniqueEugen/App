@@ -40,6 +40,7 @@ struct employee
     struct birthdays birthday;
     struct positions position;
     struct ids id;
+    string sex;
 
 };
 // структура сотрудников
