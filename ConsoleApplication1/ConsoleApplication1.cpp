@@ -157,8 +157,8 @@ int moduleInLog()
     int i;
     bool logs = true;
 
-    cout << "\a\t\t\t\tЗдаров будь Посетитель! Кем являешся ты?" << endl;
-    cout << "\t\t\t\t1.Я администратор!\n\t\t\t\t2.Я рядовой сотрудник!\n\t\t\t\t3.Да никто я, извините!" << endl;
+    cout << "\a\t\t\t\tЗдрав будь Посетитель! Кем являешся ты?" << endl;
+    cout << "\t\t\t\t1.Я администратор!\n\t\t\t\t2.Я рядовой но тупой сотрудник!\n\t\t\t\t3.Да никто я, извините!" << endl;
     cin >> i;
     system("cls");
     int kout = 0;
@@ -169,7 +169,7 @@ int moduleInLog()
             //logs = inLog();
             if (logs == false) {
                 system("cls");
-                cout << "Неверный логин или пароль" << endl;
+                cout << "Неверный логин или пароль. Атата)" << endl;
                 kout++;
                 if (kout == 3) {
 
