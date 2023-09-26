@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+E:\ОАиП\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(285,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+E:\ОАиП\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(291,10): warning C4101: ttry: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> E:\ОАиП\ConsoleApplication1\Debug\ConsoleApplication1.exe
